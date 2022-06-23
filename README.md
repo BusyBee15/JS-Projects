@@ -16,5 +16,6 @@ Counter will have three buttons
 - Increase - click this button to increase the count value
 - Decrease - click this button to decrease the count value
 - Reset - Click this button to reset the count value to zero
-  \
-  One more thing is - if the count is positive, count value will be displayed in green colour. If count value is negative, it will be displayed in red colour and black otherwise.
+
+\
+One more thing is - if the count is positive, count value will be displayed in green colour. If count value is negative, it will be displayed in red colour and black otherwise.
