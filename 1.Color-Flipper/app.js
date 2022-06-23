@@ -13,12 +13,3 @@ btn.addEventListener('click', function(){
 function randomNumber_(){
     return Math.floor(Math.random()*colors.length)
 }
-
-
-
-
-
-
-
-
-
