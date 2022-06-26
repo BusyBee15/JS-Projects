@@ -3,7 +3,7 @@ const closeModal = document.querySelector('.close-btn')
 const modal = document.querySelector('.modal-overlay')
 
 openModal.addEventListener('click', function(){
-    // console.log('hi'0
+    // console.log('hi')
         modal.classList.add('open-modal')
     
 })
